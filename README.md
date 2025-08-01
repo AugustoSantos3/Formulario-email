@@ -1,2 +1,2 @@
-# Formul-rio-Email-
+# Formulario Email
 Pagina simples para validação de E-mails.
